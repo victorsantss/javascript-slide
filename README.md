@@ -2,10 +2,6 @@
 
 <p align="center">Slides desenvolvidos no curso de Javascript da Origamid.</p>
 
-<p align="center">
-  <img src="demo.gif" alt="animated" />
-</p>
-
 ### 🛠️ Tecnologias
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
